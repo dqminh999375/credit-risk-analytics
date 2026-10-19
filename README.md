@@ -1,6 +1,4 @@
-Dưới đây là một file **`README.md`** cực kỳ chuyên nghiệp, được viết theo chuẩn của các dự án Data/Data Science trên GitHub. Nó không chỉ giúp giảng viên (nhà tuyển dụng) hiểu bạn đã làm gì, mà còn thể hiện bạn là người có tư duy hệ thống (System Thinking) và biết cách viết tài liệu (Documentation).
 
-Bạn hãy copy toàn bộ nội dung trong khung dưới đây, dán vào file `README.md` ở thư mục gốc của dự án, lưu lại (Ctrl+S), rồi push lên GitHub nhé.
 
 ---
 
